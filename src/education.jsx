@@ -6,7 +6,7 @@ import cbes from './assets/images/cbes.png'
 
 // We bypass the git caching issue by importing it under a clean name 
 // or using a relative fallback if Git messed up the exact casing on GitHub.
-import nub from './assets/images/nub.png' 
+import nub from './assets/images/NUB.png' 
 
 function Educ(){
     return(
