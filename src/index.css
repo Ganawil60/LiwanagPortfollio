@@ -1,0 +1,30 @@
+@import "tailwindcss";
+html{
+  scroll-behavior: smooth;
+}
+main{
+  background-color: #10172a;
+  color: white;
+}
+header{
+  color: white;
+  overflow: hidden;
+  
+  a{
+    font-size: larger;
+  }
+
+  a:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+  }
+}
+code{
+  background-color: rgb(33, 57, 57);
+  padding: 5px;
+  padding-inline: 30px;
+  border-radius: 5px;
+  border: 2px gray solid;
+  margin-inline: 10px;
+  margin-block: 5px;
+}
