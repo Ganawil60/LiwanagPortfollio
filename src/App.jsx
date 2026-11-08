@@ -36,6 +36,7 @@ const PROJECTS = [
     links: [
       { label: 'GitHub', href: 'https://github.com/Ganawil60/Fildr' },
       { label: 'Watch Demo', href: 'https://youtu.be/wgzb3Mvhse0' },
+      { label: 'Download', href: 'https://ganawil60.github.io/Fildr-Website/' },
     ],
   },
   {
