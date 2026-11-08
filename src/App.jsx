@@ -28,7 +28,7 @@ const PROJECTS = [
     tag: 'Side Project',
     title: 'Fildr',
     tagline: 'Fill. Folder. Done.',
-    desc: 'A Windows desktop app that sorts messy folders for you, moving files into organized folders like Pictures, Videos, and Docs. Designed, built, and packaged as a standalone .exe by me as a personal side project, with a modern sidebar interface in a mint green palette.',
+    desc: 'Stop sorting files by hand. Fildr is a free Windows app that previews where every file will go, sorts them into folders like Pictures, Videos, and Docs, and can watch a folder in the background to sort new files as they arrive. Includes Undo, a duplicate finder, and an activity log. Built with Python and CustomTkinter, packaged with PyInstaller and Inno Setup as a Windows installer.',
     role: 'Solo Developer',
     stack: ['Python', 'customtkinter', 'PyInstaller'],
     extraLabel: 'Platform',
