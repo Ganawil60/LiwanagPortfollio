@@ -97,8 +97,8 @@ const CERTS = [
 // Leave desc as '' to hide it. Fill in whatever you like.
 const EDUCATION = [
   { logo: basc, school: 'Bulacan State Agricultural University', years: '2023 - 2027', desc: 'Bachelor of Science in Information Technology.' },
-  { logo: nub, school: 'National University Baliwag', years: '2021 - 2023', desc: '' },
-  { logo: vrshs, school: 'Vedasto R. Santiago Highschool', years: '2016 - 2021', desc: '' },
+  { logo: nub, school: 'National University Baliwag', years: '2021 - 2023', desc: 'Bachelor of Science in Information Technology.' },
+  { logo: vrshs, school: 'Vedasto R. Santiago Highschool', years: '2016 - 2021', desc: 'STEM' },
   { logo: cbes, school: 'Cuayan Bugtong Elementary School', years: '2009 - 2016', desc: '' },
 ]
 
