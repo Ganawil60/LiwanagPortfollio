@@ -35,7 +35,7 @@ const PROJECTS = [
     extra: ['Windows only'],
     links: [
       { label: 'GitHub', href: 'https://github.com/Ganawil60/Fildr' },
-      { label: 'Watch Demo', href: 'https://youtu.be/wgzb3Mvhse0' },
+      { label: 'Watch Demo', href: 'https://youtu.be/3WlPHS4oxso' },
       { label: 'Download', href: 'https://ganawil60.github.io/Fildr-Website/' },
     ],
   },
