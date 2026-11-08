@@ -46,9 +46,22 @@ const PROJECTS = [
     desc: "Served as the Lead Front-End Developer for an enterprise-scale platform combining a Hostel Management System, Inventory, and an LMS for the Institute of Management. Built the first version of the user interfaces and interactive UI logic from scratch using Vanilla JavaScript, HTML5, and CSS3, then used AI-assisted development to refine the design, optimize performance, fix errors, and build out additional front-end features, ensuring seamless integration with the backend developer’s architecture.",
     role: 'Lead Front-End Developer',
     stack: ['HTML5', 'CSS3', 'Vanilla JavaScript'],
+    extraLabel: 'Image Library',
+    extra: ['Cloudinary'],
+    links: [],
+  },
+  {
+    tag: 'Side Project',
+    title: 'Liwanag-Gallery',
+    tagline: '',
+    desc: "A home for my favorite photography. Liwanag Gallery is a gallery website where I share my best shots, built around a clean layout that lets the photos take center stage. Images are hosted on Cloudinary, which handles storage, resizing, and fast delivery. Designed and built by me as a personal side project.",
+    role: 'Solo Developer',
+    stack: ['Tailwind CSS', 'Next.js', 'React'],
     extraLabel: 'Modules',
     extra: ['Hostel Management', 'Inventory', 'LMS'],
-    links: [],
+    links: [
+      { label: 'Visit', href: 'https://liwanag-gallery.vercel.app/' },
+    ],
   },
 ]
 
